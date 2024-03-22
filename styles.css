@@ -4,10 +4,19 @@
     padding: 0
     ;
 }
+a{
+    padding: 2%;
+    margin: 3%;
+    text-decoration: none;
+    color: white;
+    background-color: rgba(250, 235, 215, 0.228);
+    border-radius: 50px;
+    
+}
 h1{
     
     justify-self: center;
-    padding: 10%;
+    padding: 5%;
 }
 body{
     display: flex;
